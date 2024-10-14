@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/a58459de-862e-4f7d-8ad3-1766754455ec)
+![image](https://github.com/user-attachments/assets/dd06c900-b7ca-4809-a411-3d6cd3f5c0cd)
+
 
 ## 🖥️ Projeto
 Esse é uma API para um sistema de Gerenciador de Tarefas, com aplicação em camadas, sendo essas camada de comunicação e camada de regras de negócios.
