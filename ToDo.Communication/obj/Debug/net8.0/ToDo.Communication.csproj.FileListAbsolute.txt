@@ -1,0 +1,11 @@
+C:\projetos-vs\ToDoList\ToDo.Communication\bin\Debug\net8.0\ToDo.Communication.deps.json
+C:\projetos-vs\ToDoList\ToDo.Communication\bin\Debug\net8.0\ToDo.Communication.dll
+C:\projetos-vs\ToDoList\ToDo.Communication\bin\Debug\net8.0\ToDo.Communication.pdb
+C:\projetos-vs\ToDoList\ToDo.Communication\obj\Debug\net8.0\ToDo.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos-vs\ToDoList\ToDo.Communication\obj\Debug\net8.0\ToDo.Communication.AssemblyInfoInputs.cache
+C:\projetos-vs\ToDoList\ToDo.Communication\obj\Debug\net8.0\ToDo.Communication.AssemblyInfo.cs
+C:\projetos-vs\ToDoList\ToDo.Communication\obj\Debug\net8.0\ToDo.Communication.csproj.CoreCompileInputs.cache
+C:\projetos-vs\ToDoList\ToDo.Communication\obj\Debug\net8.0\ToDo.Communication.dll
+C:\projetos-vs\ToDoList\ToDo.Communication\obj\Debug\net8.0\refint\ToDo.Communication.dll
+C:\projetos-vs\ToDoList\ToDo.Communication\obj\Debug\net8.0\ToDo.Communication.pdb
+C:\projetos-vs\ToDoList\ToDo.Communication\obj\Debug\net8.0\ref\ToDo.Communication.dll

@@ -1,0 +1,15 @@
+C:\projetos-vs\ToDoList\ToDo.Application\bin\Debug\net8.0\ToDo.Application.deps.json
+C:\projetos-vs\ToDoList\ToDo.Application\bin\Debug\net8.0\ToDo.Application.dll
+C:\projetos-vs\ToDoList\ToDo.Application\bin\Debug\net8.0\ToDo.Application.pdb
+C:\projetos-vs\ToDoList\ToDo.Application\bin\Debug\net8.0\ToDo.Communication.dll
+C:\projetos-vs\ToDoList\ToDo.Application\bin\Debug\net8.0\ToDo.Communication.pdb
+C:\projetos-vs\ToDoList\ToDo.Application\obj\Debug\net8.0\ToDo.Application.csproj.AssemblyReference.cache
+C:\projetos-vs\ToDoList\ToDo.Application\obj\Debug\net8.0\ToDo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos-vs\ToDoList\ToDo.Application\obj\Debug\net8.0\ToDo.Application.AssemblyInfoInputs.cache
+C:\projetos-vs\ToDoList\ToDo.Application\obj\Debug\net8.0\ToDo.Application.AssemblyInfo.cs
+C:\projetos-vs\ToDoList\ToDo.Application\obj\Debug\net8.0\ToDo.Application.csproj.CoreCompileInputs.cache
+C:\projetos-vs\ToDoList\ToDo.Application\obj\Debug\net8.0\ToDo.Application.csproj.CopyComplete
+C:\projetos-vs\ToDoList\ToDo.Application\obj\Debug\net8.0\ToDo.Application.dll
+C:\projetos-vs\ToDoList\ToDo.Application\obj\Debug\net8.0\refint\ToDo.Application.dll
+C:\projetos-vs\ToDoList\ToDo.Application\obj\Debug\net8.0\ToDo.Application.pdb
+C:\projetos-vs\ToDoList\ToDo.Application\obj\Debug\net8.0\ref\ToDo.Application.dll
